@@ -1,0 +1,24 @@
+
+
+GraphedExpression="(((motor_data).components).encoder)->mec_angle", Color=#e56a6f
+OpenDocument="BLDCMotor.c", FilePath="c:/Users/29987/Desktop/foc_learn/GIM-6010-8/gim6010_fd6288/Modules/motor/BLDCMotor.c", Line=77
+OpenDocument="stm32g4xx_it.c", FilePath="c:/Users/29987/Desktop/foc_learn/GIM-6010-8/gim6010_fd6288/Core/Src/stm32g4xx_it.c", Line=84
+OpenDocument="startup_stm32g431cbux.s", FilePath="c:/Users/29987/Desktop/foc_learn/GIM-6010-8/gim6010_fd6288/Core/Startup/startup_stm32g431cbux.s", Line=44
+OpenDocument="stm32g4xx_hal_spi.c", FilePath="c:/Users/29987/Desktop/foc_learn/GIM-6010-8/gim6010_fd6288/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_spi.c", Line=4097
+OpenDocument="FOCMotor.c", FilePath="c:/Users/29987/Desktop/foc_learn/GIM-6010-8/gim6010_fd6288/Modules/motor/FOCMotor.c", Line=0
+OpenDocument="main.c", FilePath="c:/Users/29987/Desktop/foc_learn/GIM-6010-8/gim6010_fd6288/Core/Src/main.c", Line=55
+OpenToolbar="Debug", Floating=0, x=0, y=0
+OpenWindow="Source Files", DockArea=LEFT, x=0, y=0, w=497, h=729, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0
+OpenWindow="Disassembly", DockArea=RIGHT, x=0, y=0, w=534, h=1298, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0
+OpenWindow="Watched Data 1", DockArea=LEFT, x=0, y=1, w=497, h=568, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0
+OpenWindow="Data Sampling", DockArea=BOTTOM, x=0, y=0, w=827, h=327, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0, VisibleTab=0, UniformSampleSpacing=0
+OpenWindow="Timeline", DockArea=BOTTOM, x=1, y=0, w=1442, h=327, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=1, DataPaneShown=1, PowerPaneShown=0, CodePaneShown=0, PinCursor="Cursor Movable", TimePerDiv="100 ms / Div", TimeStampFormat="Time", DataGraphDrawAsPoints=0, DataGraphLegendShown=1, DataGraphUniformSampleSpacing=0, DataGraphLegendPosition="68;0", DataGraphShowNamesAtCursor=0, PowerGraphDrawAsPoints=0, PowerGraphLegendShown=0, PowerGraphAvgFilterTime=Off, PowerGraphAvgFilterLen=Off, PowerGraphUniformSampleSpacing=0, PowerGraphLegendPosition="1215;-69", CodeGraphLegendShown=0, CodeGraphLegendPosition="1165;0"
+SmartViewPlugin="", Page="", Toolbar="Hidden", Window="SmartView 1"
+TableHeader="Source Files", SortCol="File", SortOrder="DESCENDING", VisibleCols=["File";"Status";"Size";"#Insts";"Path"], ColWidths=[303;100;100;100;966]
+TableHeader="Data Sampling Table", SortCol="None", SortOrder="ASCENDING", VisibleCols=["Index";"Time";" (((motor_data).components).encoder)->mec_angle"], ColWidths=[100;100;100]
+TableHeader="Data Sampling Setup", SortCol="Min. Change", SortOrder="ASCENDING", VisibleCols=["Type";"Value";"Min";"Max";"Average";"# Changes";"Min. Change";"Max. Change"], ColWidths=[100;114;100;104;114;110;126;126]
+TableHeader="Power Sampling", SortCol="None", SortOrder="ASCENDING", VisibleCols=["Index";"Time";"Ch 0"], ColWidths=[100;100;100]
+TableHeader="Watched Data 1", SortCol="Expression", SortOrder="ASCENDING", VisibleCols=["Expression";"Value";"Location";"Refresh"], ColWidths=[130;100;134;107]
+TableHeader="RegisterSelectionDialog", SortCol="None", SortOrder="ASCENDING", VisibleCols=[], ColWidths=[]
+TableHeader="TargetExceptionDialog", SortCol="Name", SortOrder="ASCENDING", VisibleCols=["Name";"Value";"Address";"Description"], ColWidths=[200;100;100;326]
+WatchedExpression="motor_data", Window=Watched Data 1
